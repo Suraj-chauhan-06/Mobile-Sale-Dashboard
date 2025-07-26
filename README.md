@@ -1,6 +1,6 @@
 # Mobile-Sale-Dashboard
 
-# # 1.📊 Power BI Project – Mobile Sales Dashboard
+# 1.📊 Power BI Project – Mobile Sales Dashboard
 
 # 2.✅ Project Objective
 The goal of this dashboard is to analyze mobile sales data across different Indian cities, models, brands, and payment methods in order to drive strategic business decisions. This project was created using Power BI as part of my hands-on learning from Skill Course by Satish Dhawale Sir.
